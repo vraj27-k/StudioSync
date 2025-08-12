@@ -174,3 +174,4 @@ EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'vrajkankrecha1@gmail.com'           # Your SMTP email
 EMAIL_HOST_PASSWORD = 'ryze npmb klgb itir'           # Preferably from .env!
 DEFAULT_FROM_EMAIL = 'VK Clicks <noreply@vkclicks.com>'
+ALLOWED_HOSTS = ['studiosync-backend.onrender.com', 'localhost', '127.0.0.1']
